@@ -1,0 +1,8 @@
+# Python Virtual Environment
+venv/
+
+# Python
+__pycache__/
+
+# Integrated Development Environment
+.vscode/
