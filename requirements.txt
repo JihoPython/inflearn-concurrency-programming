@@ -1,0 +1,22 @@
+# Python 3.9.12
+
+# Formatter & Linter
+black
+flake8
+
+# HTTP Handler
+requests
+aiohttp
+aiofiles
+
+# HTML Scraper
+beautifulsoup4
+
+# FastAPI
+fastapi
+uvicorn[standard]
+jinja2
+
+# Database
+odmantic
+pymongo[srv]
