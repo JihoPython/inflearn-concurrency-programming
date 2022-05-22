@@ -6,3 +6,10 @@ __pycache__/
 
 # Integrated Development Environment
 .vscode/
+
+# Python Dot Environment Files
+.env*
+!.env.example
+
+# Scraping Resources
+**/images/
