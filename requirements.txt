@@ -11,3 +11,12 @@ aiofiles
 
 # HTML Scraper
 beautifulsoup4
+
+# FastAPI
+fastapi
+uvicorn[standard]
+jinja2
+
+# Database
+odmantic
+pymongo[srv]
